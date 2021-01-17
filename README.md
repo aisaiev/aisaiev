@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Anton, I'm a full stack developer based in Kharkiv
+
 <!--
 **aisaiev/aisaiev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
